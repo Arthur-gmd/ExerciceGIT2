@@ -39,3 +39,11 @@ git cherry-pick abc123
 
 git tag -a v1.0 -m "Description du tag"
 git push origin v1.0
+
+
+---------------------------Conclusion---------------------------
+En résumé, Git est un outil puissant et essentiel pour la gestion de versions dans
+le développement de logiciels. Il permet de suivre les modifications, 
+de collaborer efficacement avec d’autres développeurs, et de gérer les différentes 
+branches de développement de manière structurée. Les commandes Git que nous avons vues 
+sont les bases pour commencer à utiliser Git dans vos projets
