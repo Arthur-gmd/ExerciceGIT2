@@ -1,4 +1,41 @@
 Comment utiliser GIT:
 
+---------------------------Introduction
+
 On commence tout d'abord par l'installation, en allant directement sur le site de GIT (possible d'utiliser une ligne de commande).
 
+---------------------------Commande a connaitre---------------------------
+
+git init ---> Permet la création d'un dépot git dans un dossier local 
+get init
+get config --global user.name "Votre Nom"
+get config --global user.email "votre.email@example.com"
+
+git branch
+git branch nom_de_branche
+git checkout nom_de_branche
+get checkout -b nouvelle_branche
+git merge nom_de_branche
+git branch -d nom_de_branche
+
+git status
+git add fichier.txt
+git commitg -m "Message de commit"
+get diffff
+git logg
+
+git remote add origin https://github.com/votre_nom_d_utilisateur/nom_du_dépôt.git
+git push origin main
+git pull origin main
+git fetch
+
+git stash
+git stash list
+git stash apply
+git stash drop
+
+git rebase master
+git cherry-pick abc123
+
+git tag -a v1.0 -m "Description du tag"
+git push origin v1.0
