@@ -1,1 +1,2 @@
-Je modifie apres le stash 
+Je rajoute pour le test de stash 
+
