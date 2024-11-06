@@ -1,0 +1,4 @@
+Comment utiliser GIT:
+
+On commence tout d'abord par l'installation, en allant directement sur le site de GIT (possible d'utiliser une ligne de commande).
+
